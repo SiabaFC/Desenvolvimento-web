@@ -3,7 +3,7 @@ um texto test
 Computador - Windows
 Editor de texto: VScode - https://code.visualstudio.com/docs e https://en.wikipedia.org/wiki/Visual_Studio_Code
 Navegador: CHrome - https://www.google.com/chrome 
-Servidor Web: ?
+Servidor Web: ? (Nao tenho muito conhecimento) 
 Editor de imagens: Photoshop - https://helpx.adobe.com/pdf/photoshop_reference.pdf 
 
 
