@@ -1,0 +1,16 @@
+um texto test
+
+Computador - Windows
+Editor de texto: VScode - https://code.visualstudio.com/docs e https://en.wikipedia.org/wiki/Visual_Studio_Code
+Navegador: CHrome - https://www.google.com/chrome 
+Servidor Web: ?
+Editor de imagens: Photoshop - https://helpx.adobe.com/pdf/photoshop_reference.pdf 
+
+
+1- O photoshop vai ajudar bastante com os Fundamentos da linguagem CSS, pois ele vai ser o programa base para a construcao de imagens,
+mesmo que o photoshop no comeco pode ser complicado, com o tempo, estudo do programa e dicas, pode ser tornar uma ferramenta potente para
+o seu uso
+2- O vscode vai ser a nossa base para usarmos codigos como Python,. Java e Javascrpit, C e etc. Ira ajudar na displicinas como
+a Aplicações web com renderização no servidor, o desenvolvimento das API, Conceitos básicos de programação de computadores e etc.
+3- Computador vai ser o windows, considero um sistema operacional simples para iniciantes e nos ajudara muito na caminhada da graduacao
+4- Chrome sera o navegador https://www.google.com/chrome , tradicional e basico para todos os conteudos
