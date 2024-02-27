@@ -1,4 +1,4 @@
-um texto test
+Felipe Siaba, Turma 8001, ADS (Primeiro periodo) 2024
 
 Computador - Windows
 Editor de texto: VScode - https://code.visualstudio.com/docs e https://en.wikipedia.org/wiki/Visual_Studio_Code
@@ -14,3 +14,4 @@ o seu uso
 a Aplicações web com renderização no servidor, o desenvolvimento das API, Conceitos básicos de programação de computadores e etc.
 3- Computador vai ser o windows, considero um sistema operacional simples para iniciantes e nos ajudara muito na caminhada da graduacao
 4- Chrome sera o navegador https://www.google.com/chrome , tradicional e basico para todos os conteudos
+
